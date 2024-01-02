@@ -1,8 +1,0 @@
-﻿  P06-52-9157.cpp
-F:\7th semesster\DMET 502 graphics\practical\OpenGL 2D Template\OpenGL2DTemplate\P06-52-9157.cpp(446,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-F:\7th semesster\DMET 502 graphics\practical\OpenGL 2D Template\OpenGL2DTemplate\P06-52-9157.cpp(452,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-F:\7th semesster\DMET 502 graphics\practical\OpenGL 2D Template\OpenGL2DTemplate\P06-52-9157.cpp(458,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-F:\7th semesster\DMET 502 graphics\practical\OpenGL 2D Template\OpenGL2DTemplate\P06-52-9157.cpp(461,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-F:\7th semesster\DMET 502 graphics\practical\OpenGL 2D Template\OpenGL2DTemplate\P06-52-9157.cpp(466,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-P06-52-9157.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  OpenGL2DTemplate.vcxproj -> F:\7th semesster\DMET 502 graphics\practical\OpenGL 2D Template\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
